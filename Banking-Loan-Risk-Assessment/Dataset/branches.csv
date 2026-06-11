@@ -1,0 +1,101 @@
+Branch_ID,Branch_Name,City,State
+1,Mumbai Branch 1,Mumbai,Maharashtra
+2,Mumbai Branch 2,Mumbai,Maharashtra
+3,Pune Branch 1,Pune,Maharashtra
+4,Pune Branch 2,Pune,Maharashtra
+5,Nagpur Branch 1,Nagpur,Maharashtra
+6,Nagpur Branch 2,Nagpur,Maharashtra
+7,Nashik Branch 1,Nashik,Maharashtra
+8,Nashik Branch 2,Nashik,Maharashtra
+9,Aurangabad Branch 1,Aurangabad,Maharashtra
+10,Aurangabad Branch 2,Aurangabad,Maharashtra
+11,Bengaluru Branch 1,Bengaluru,Karnataka
+12,Bengaluru Branch 2,Bengaluru,Karnataka
+13,Mysuru Branch 1,Mysuru,Karnataka
+14,Mysuru Branch 2,Mysuru,Karnataka
+15,Mangaluru Branch 1,Mangaluru,Karnataka
+16,Mangaluru Branch 2,Mangaluru,Karnataka
+17,Hubballi Branch 1,Hubballi,Karnataka
+18,Hubballi Branch 2,Hubballi,Karnataka
+19,Belagavi Branch 1,Belagavi,Karnataka
+20,Belagavi Branch 2,Belagavi,Karnataka
+21,Chennai Branch 1,Chennai,Tamil Nadu
+22,Chennai Branch 2,Chennai,Tamil Nadu
+23,Coimbatore Branch 1,Coimbatore,Tamil Nadu
+24,Coimbatore Branch 2,Coimbatore,Tamil Nadu
+25,Madurai Branch 1,Madurai,Tamil Nadu
+26,Madurai Branch 2,Madurai,Tamil Nadu
+27,Salem Branch 1,Salem,Tamil Nadu
+28,Salem Branch 2,Salem,Tamil Nadu
+29,Trichy Branch 1,Trichy,Tamil Nadu
+30,Trichy Branch 2,Trichy,Tamil Nadu
+31,New Delhi Branch 1,New Delhi,Delhi
+32,New Delhi Branch 2,New Delhi,Delhi
+33,Dwarka Branch 1,Dwarka,Delhi
+34,Dwarka Branch 2,Dwarka,Delhi
+35,Rohini Branch 1,Rohini,Delhi
+36,Rohini Branch 2,Rohini,Delhi
+37,Saket Branch 1,Saket,Delhi
+38,Saket Branch 2,Saket,Delhi
+39,Karol Bagh Branch 1,Karol Bagh,Delhi
+40,Karol Bagh Branch 2,Karol Bagh,Delhi
+41,Ahmedabad Branch 1,Ahmedabad,Gujarat
+42,Ahmedabad Branch 2,Ahmedabad,Gujarat
+43,Surat Branch 1,Surat,Gujarat
+44,Surat Branch 2,Surat,Gujarat
+45,Vadodara Branch 1,Vadodara,Gujarat
+46,Vadodara Branch 2,Vadodara,Gujarat
+47,Rajkot Branch 1,Rajkot,Gujarat
+48,Rajkot Branch 2,Rajkot,Gujarat
+49,Bhavnagar Branch 1,Bhavnagar,Gujarat
+50,Bhavnagar Branch 2,Bhavnagar,Gujarat
+51,Kolkata Branch 1,Kolkata,West Bengal
+52,Kolkata Branch 2,Kolkata,West Bengal
+53,Howrah Branch 1,Howrah,West Bengal
+54,Howrah Branch 2,Howrah,West Bengal
+55,Durgapur Branch 1,Durgapur,West Bengal
+56,Durgapur Branch 2,Durgapur,West Bengal
+57,Siliguri Branch 1,Siliguri,West Bengal
+58,Siliguri Branch 2,Siliguri,West Bengal
+59,Asansol Branch 1,Asansol,West Bengal
+60,Asansol Branch 2,Asansol,West Bengal
+61,Hyderabad Branch 1,Hyderabad,Telangana
+62,Hyderabad Branch 2,Hyderabad,Telangana
+63,Warangal Branch 1,Warangal,Telangana
+64,Warangal Branch 2,Warangal,Telangana
+65,Karimnagar Branch 1,Karimnagar,Telangana
+66,Karimnagar Branch 2,Karimnagar,Telangana
+67,Nizamabad Branch 1,Nizamabad,Telangana
+68,Nizamabad Branch 2,Nizamabad,Telangana
+69,Khammam Branch 1,Khammam,Telangana
+70,Khammam Branch 2,Khammam,Telangana
+71,Lucknow Branch 1,Lucknow,Uttar Pradesh
+72,Lucknow Branch 2,Lucknow,Uttar Pradesh
+73,Noida Branch 1,Noida,Uttar Pradesh
+74,Noida Branch 2,Noida,Uttar Pradesh
+75,Kanpur Branch 1,Kanpur,Uttar Pradesh
+76,Kanpur Branch 2,Kanpur,Uttar Pradesh
+77,Varanasi Branch 1,Varanasi,Uttar Pradesh
+78,Varanasi Branch 2,Varanasi,Uttar Pradesh
+79,Agra Branch 1,Agra,Uttar Pradesh
+80,Agra Branch 2,Agra,Uttar Pradesh
+81,Jaipur Branch 1,Jaipur,Rajasthan
+82,Jaipur Branch 2,Jaipur,Rajasthan
+83,Udaipur Branch 1,Udaipur,Rajasthan
+84,Udaipur Branch 2,Udaipur,Rajasthan
+85,Jodhpur Branch 1,Jodhpur,Rajasthan
+86,Jodhpur Branch 2,Jodhpur,Rajasthan
+87,Kota Branch 1,Kota,Rajasthan
+88,Kota Branch 2,Kota,Rajasthan
+89,Ajmer Branch 1,Ajmer,Rajasthan
+90,Ajmer Branch 2,Ajmer,Rajasthan
+91,Kochi Branch 1,Kochi,Kerala
+92,Kochi Branch 2,Kochi,Kerala
+93,Thiruvananthapuram Branch 1,Thiruvananthapuram,Kerala
+94,Thiruvananthapuram Branch 2,Thiruvananthapuram,Kerala
+95,Kozhikode Branch 1,Kozhikode,Kerala
+96,Kozhikode Branch 2,Kozhikode,Kerala
+97,Thrissur Branch 1,Thrissur,Kerala
+98,Thrissur Branch 2,Thrissur,Kerala
+99,Kannur Branch 1,Kannur,Kerala
+100,Kannur Branch 2,Kannur,Kerala
